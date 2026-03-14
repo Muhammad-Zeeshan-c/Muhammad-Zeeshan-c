@@ -66,7 +66,6 @@ Check out my personal portfolio: [zeeshan-portfolio.vercel.app](https://zeeshanp
 ![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=Resturant&theme=radical)  
 ![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=Crypto-Screener&theme=radical)  
 ![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=portfolio-Website&theme=radical)  
-![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=medora-tech&theme=radical)
 
 ---
 
@@ -84,7 +83,7 @@ Check out my personal portfolio: [zeeshan-portfolio.vercel.app](https://zeeshanp
 
 - **LinkedIn:** [Zeeshan Khalid](https://www.linkedin.com/in/muhammad-zeeshan-khalid-392baa297/)  
 - **GitHub:** [@Muhammad-Zeeshan-c](https://github.com/Muhammad-Zeeshan-c)  
-- **Portfolio / Live Demo:** [zeeshan-portfolio.vercel.app](https://zeeshanportfolio-website.vercel.ap)
+- **Portfolio / Live Demo:** [zeeshanportfolio-website.vercel.app](https://zeeshanportfolio-website.vercel.app)
 
 ---
 
