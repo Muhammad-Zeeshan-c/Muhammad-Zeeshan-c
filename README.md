@@ -57,7 +57,6 @@ Check out my personal portfolio: [zeeshan-portfolio.vercel.app](https://zeeshanp
 |---------|------------|-----------|--------|
 | **Crypto Screener** | React, Tailwind CSS, Node.js | [Live](https://crypto-screener.vercel.app/) | [Repo](https://github.com/Muhammad-Zeeshan-c/Crypto-Screener) |
 | **Portfolio Website** | React, Tailwind CSS, Framer Motion | [Live](https://zeeshanportfolio-website.vercel.app/) | [Repo](https://github.com/Muhammad-Zeeshan-c/portfolio-Website) |
-| **Medora Tech / Gamma Solutions** | React, Tailwind CSS | [Live](https://gamma-solutions.vercel.app/) | [Repo](https://github.com/Muhammad-Zeeshan-c/medora-tech) |
 | **Johnny Jugnu Restaurant** | React, Tailwind CSS | [Live](https://johnyjugnu.vercel.app/) | [Repo](https://github.com/Muhammad-Zeeshan-c/Resturant) |
 
 ---
@@ -85,7 +84,7 @@ Check out my personal portfolio: [zeeshan-portfolio.vercel.app](https://zeeshanp
 
 - **LinkedIn:** [Zeeshan Khalid](https://www.linkedin.com/in/muhammad-zeeshan-khalid-392baa297/)  
 - **GitHub:** [@Muhammad-Zeeshan-c](https://github.com/Muhammad-Zeeshan-c)  
-- **Portfolio / Live Demo:** [zeeshan-portfolio.vercel.app](https://zeeshan-portfolio.vercel.app/)
+- **Portfolio / Live Demo:** [zeeshan-portfolio.vercel.app](https://zeeshanportfolio-website.vercel.ap)
 
 ---
 
