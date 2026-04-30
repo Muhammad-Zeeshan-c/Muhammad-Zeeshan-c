@@ -82,11 +82,11 @@
 ## 🎓 Academic Roadmap
 
 ```mermaid
-graph LR
-    A[COMSATS Lahore] -- Software Engineering --> B[Semester 4]
-    B --> C[Focus: Data Structures]
-    B --> D[Focus: Networking]
-    B --> E[Focus: Full-Stack]
+graph TD
+    A[COMSATS University Lahore] -- Software Engineering --> B[4th Semester]
+    B --> C[MERN Stack Development]
+    B --> D[Machine Learning]
+    B --> E[Automation]
 ```
 
 ---
