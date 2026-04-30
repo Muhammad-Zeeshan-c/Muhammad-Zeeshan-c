@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ═══════════ INTERSTELLAR HEADER ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=MUHAMMAD%20ZEESHAN&fontSize=80&fontColor=fff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF00FF&height=260&section=header&text=MUHAMMAD%20ZEESHAN&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Turning%20complex%20logic%20into%20fluid%20digital%20experiences.&descColor=ffffff&descSize=18&animation=fadeIn" />
 
 <!-- ═══════════ DYNAMIC STATUS BAR ═══════════ -->
 <br/>
