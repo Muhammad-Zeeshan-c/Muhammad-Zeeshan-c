@@ -14,11 +14,20 @@
 <br/>
 
 <!-- ═══════════ INTERACTIVE SPACE GRID ═══════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Grid Animation" src="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Spaceship Animation" src="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════ ACTIVITY ANALYTICS GRAPH ═══════════ -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zeeshan-c&theme=tokyonight&area=true&hide_border=true&bg_color=00000000&color=FF00FF" width="100%" />
+</div>
 
 <br/>
 
