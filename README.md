@@ -86,19 +86,6 @@
 
 </div>
 
----
-
-## 🎓 Academic Roadmap
-
-```mermaid
-graph TD
-    A[COMSATS University Lahore] -- Software Engineering --> B[4th Semester]
-    B --> C[MERN Stack Development]
-    B --> D[Machine Learning]
-    B --> E[Automation]
-```
-
----
 
 ## 📊 Performance Analytics
 
