@@ -13,24 +13,6 @@
 
 <br/>
 
-<!-- ═══════════ INTERACTIVE SPACE GRID ═══════════ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Spaceship Animation" src="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════ ACTIVITY ANALYTICS GRAPH ═══════════ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zeeshan-c&theme=tokyonight&area=true&hide_border=true&bg_color=00000000&color=FF00FF" width="100%" />
-</div>
-
-<br/>
-
 <!-- ═══════════ CORE METRICS ═══════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Zeeshan-c&label=SYSTEM+ACCESS&color=FF00FF&style=flat-square" />
@@ -46,20 +28,14 @@
 
 ## 🧬 Engineering Identity
 
-<p align="left">
-  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN5Z3R4ZzZ4NGR4ZzZ4NGR4ZzZ4NGR4ZzZ4NGR4ZzZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L8K62iTDkzGX6/giphy.gif" />
-  
-  **I am an architect of digital logic.** Currently pursuing Software Engineering at COMSATS University Lahore, I bridge the gap between high-level user requirements and low-level system efficiency. 
-  
-  My expertise lies in the **MERN ecosystem**, where I build responsive, secure, and highly interactive applications. Beyond the web, I am deeply engaged in the mechanics of **AI/ML automation** and the structural integrity of **Computer Networks**.
-  
-  ### ⚡ System Parameters
-  - **Environment:** Software Engineering (2024–2028)
-  - **Directives:** Scalable Web Systems, Interactive UX, System Design
-  - **In-Progress:** MERN Integration & AI/ML Explorations
-</p>
+**I am an architect of digital logic.** Currently pursuing Software Engineering at COMSATS University Lahore (2024–2028), I bridge the gap between high-level user requirements and low-level system efficiency.
 
-<br clear="right"/>
+My expertise lies in the **MERN ecosystem**, where I build responsive, secure, and highly interactive applications. Beyond the web, I am deeply engaged in the mechanics of **AI/ML automation** and the structural integrity of **Computer Networks**.
+
+> ⚡ **Directives:** Scalable Web Systems · Interactive UX · System Design
+> ⚡ **In-Progress:** MERN Integration & AI/ML Explorations
+
+<br/>
 
 ---
 
@@ -86,6 +62,9 @@
 
 </div>
 
+<br/>
+
+---
 
 ## 📊 Performance Analytics
 
@@ -100,26 +79,28 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Spaceship Animation" src="https://raw.githubusercontent.com/Muhammad-Zeeshan-c/Muhammad-Zeeshan-c/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zeeshan-c&theme=tokyonight&area=true&hide_border=true&bg_color=00000000&color=FF00FF" width="100%" />
+</div>
+
 ---
 
 ## 🏆 System Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Zeeshan-c&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
----
-
-## 📉 Activity Load Distribution
-
-<div align="center">
-
-| Component | Status | Intensity |
-| :--- | :--- | :--- |
-| **Commit Volume** | High Performance | `████████████████████` 99% |
-| **Issue Resolution** | Optimized | `█░░░░░░░░░░░░░░░░░░░` 0.5% |
-| **Code Governance** | Quality Control | `█░░░░░░░░░░░░░░░░░░░` 0.5% |
-
 </div>
 
 ---
@@ -132,13 +113,18 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=portfolio-Website&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zeeshan-c/portfolio-Website)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=Resturant&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zeeshan-c/Resturant)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=Pixels&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zeeshan-c/Pixels)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zeeshan-c&repo=Al-badr-313&theme=tokyonight&hide_border=true)](https://github.com/Muhammad-Zeeshan-c/Al-badr-313)
+
 </div>
 
 ---
 
-## 📈 Network Connectivity
+## 📡 Ready to Deploy
 
 <div align="center">
+
+I'm currently open to internships, freelance work, and collaboration on MERN / AI-ML projects. If you have a role or project that fits, let's talk.
 
 <a href="https://linkedin.com/in/muhammad-zeeshan-khalid-392baa297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://zeeshanportfolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -146,7 +132,7 @@
 
 <br/><br/>
 
-### 🌌 Let’s architect the future together.
+### 🌌 Let's architect the future together.
 **"Turning logic into life, one commit at a time."**
 
 <br/>
